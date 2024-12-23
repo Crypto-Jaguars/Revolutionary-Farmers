@@ -72,11 +72,13 @@ export const WithError: Story = {
   render: (args) => <Input {...args} />,
   args: {
     className: 'border-red-500 focus-visible:ring-red-500',
-    placeholder: 'Error state...'
+    placeholder: 'Error state...',
+    'aria-invalid': true,
+    'aria-errormessage': 'error-message-id'
   }
 };
 
-export const Number: Story = {
+export const NumberInput: Story = {
   render: (args) => <Input {...args} />,
   args: {
     type: 'number',
