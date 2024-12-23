@@ -14,6 +14,9 @@ dist/
 logs/
 *.log
 
+# storybook
+storybook-static/
+
 # Optional npm cache directory
 .npm/
 

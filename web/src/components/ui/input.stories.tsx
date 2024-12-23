@@ -32,7 +32,8 @@ type Story = StoryObj<typeof Input>;
 export const Default: Story = {
   render: (args) => <Input {...args} />,
   args: {
-    placeholder: 'Enter text here...'
+    placeholder: 'Enter text here...',
+    className:"rounded"
   }
 };
 
