@@ -1,1 +1,0 @@
-This folder is for research on how to make a token to be stable coin in the Stellar network.
