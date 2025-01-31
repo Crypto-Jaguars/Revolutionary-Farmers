@@ -205,9 +205,6 @@ Here are some useful resources to dive deeper into RAG implementation:
 - **Sentence-BERT**: [https://www.sbert.net/](https://www.sbert.net/)
 - **Cohere Embeddings**: [https://cohere.ai/](https://cohere.ai/)
 
----
-
-This guide covers the basics of implementing a RAG system. For more details or specific questions, feel free to reach out! 🌟
 
 ---
 
