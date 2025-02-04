@@ -160,7 +160,7 @@ If the stablecoin can't scale, it may fail. Without enough liquidity, or if the 
 
 ## Government Clampdown Risks
 
-If the Costa Rican government restricts or bans cryptocurrencies, the. stablecoin may face:
+If the Costa Rican government restricts or bans cryptocurrencies, the stablecoin may face:
 
 - Usage Restrictions: Businesses and individuals may no longer be allowed to use the stablecoin, leading to reduced adoption and decreased liquidity.
 - Banking Restrictions: Banks may be prohibited from supporting crypto-related activities, hindering stablecoin-to-fiat conversions and vice versa.
